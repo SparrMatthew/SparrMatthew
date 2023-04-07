@@ -3,7 +3,7 @@
 - 📱 My current projects are a Embeded dashboard via PowerBI and Android Stuido Mobile Applications
 - 💻 I am currently learning PowerBi, Next.js, XML, and C
 - 📤 Email: sparrme@g.cofc.edu
-- 📧 Resume: [Matthew_Sparr_Resume.pdf]
+- 📧 Resume: [Matthew_Sparr_Resume.pdf](https://github.com/SparrMatthew/SparrMatthew/blob/main/Matthew_Sparr_Resume.pdf)
 - 🏅 Hobbies: 🕹 Gamming, 🥾 Hiking, and 🎣 Fishing
 - 🥳 Fun Fact: I have never ridden a 🎢 roller coaster 
 
