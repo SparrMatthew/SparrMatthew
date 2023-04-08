@@ -1,6 +1,6 @@
 
 ## Hey! Im Matthew Sparr I am currently a Computer Science Student at College of Charleston. <br> Here is a little about me:
-- 📱 My current projects are a Embeded dashboard via PowerBI and Android Stuido Mobile Applications
+- 📱 My current projects are a Embeded dashboard via PowerBI and Android Studio Mobile Applications
 - 💻 I am currently learning PowerBi, Next.js, XML, and C
 - 📤 Email: sparrme@g.cofc.edu
 - 📧 Resume: [Matthew_Sparr_Resume.pdf](https://github.com/SparrMatthew/SparrMatthew/blob/main/Matthew_Sparr_Resume.pdf)
