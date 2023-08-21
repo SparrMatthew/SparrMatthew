@@ -1,8 +1,7 @@
 
 ## Hey! Im Matthew Sparr I am currently a Junior Software Dev at Booz Allen Hamilton. <br> Here is a little about me:
-- 📱 My current projects are a Embeded dashboard via PowerBI and Android Studio Mobile Applications
-- 💻 I am currently learning PowerBi, Next.js, XML, and C
-- 📤 Email: sparrme@g.cofc.edu
+- 💻 I am currently learning Kuberneties, Next.js, XML, and Oracle DB
+- 📤 Email: matthew.sparr99.ms@gmail.com
 - 📧 Resume: [Matthew_Sparr_Resume.pdf](https://github.com/SparrMatthew/SparrMatthew/blob/main/Matthew_Sparr_Resume.pdf)
 - 🏅 Hobbies: 🕹 Gamming, 🥾 Hiking, and 🎣 Fishing
 - 🥳 Fun Fact: I have never ridden a 🎢 roller coaster 
