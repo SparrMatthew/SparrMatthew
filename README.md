@@ -1,5 +1,5 @@
 
-## Hey! Im Matthew Sparr I am currently a Computer Science Student at College of Charleston. <br> Here is a little about me:
+## Hey! Im Matthew Sparr I am currently a Junior Software Dev at Booz Allen Hamilton. <br> Here is a little about me:
 - 📱 My current projects are a Embeded dashboard via PowerBI and Android Studio Mobile Applications
 - 💻 I am currently learning PowerBi, Next.js, XML, and C
 - 📤 Email: sparrme@g.cofc.edu
